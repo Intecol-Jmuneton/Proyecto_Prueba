@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2022-02-28T20:59:57.9580338Z</Created>
+    <Created>2022-02-28T21:48:42.2269632Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -49,6 +49,7 @@
   <Section Name="Temp">
     <Member Name="Temp1" Datatype="Bool" />
     <Member Name="temp2_mod" Datatype="Bool" />
+    <Member Name="temp2" Datatype="Bool" />
   </Section>
   <Section Name="Constant" />
   <Section Name="Return">
@@ -81,7 +82,7 @@
   <Parts>
     <Access Scope="LocalVariable" UId="21">
       <Symbol>
-        <Component Name="Temp1" />
+        <Component Name="temp2" />
       </Symbol>
     </Access>
     <Access Scope="LocalVariable" UId="22">
