@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2022-02-28T21:48:42.2269632Z</Created>
+    <Created>2022-02-28T21:54:01.0781161Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -82,12 +82,12 @@
   <Parts>
     <Access Scope="LocalVariable" UId="21">
       <Symbol>
-        <Component Name="temp2" />
+        <Component Name="Temp1" />
       </Symbol>
     </Access>
     <Access Scope="LocalVariable" UId="22">
       <Symbol>
-        <Component Name="temp2_mod" />
+        <Component Name="temp2" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="23" />
